@@ -3,7 +3,20 @@
 - 🌱 I’m currently learning Python, JS...
 - 📫 How to reach me 🤔
 
-<!---
-S0hCoHtOa/S0hCoHtOa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Things I ❤️
+
+**Languages,**
+
+<a href="https://python.org/">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</a>
+<a href="https://html5.org/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+</a>
