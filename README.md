@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python, JS...
 - 📫 How to reach me 🤔
 
-![Alt Text](https://i.pixl.is/8be73eaeac3f20856fe58f18563e1fe9.gif)
+<p align="center">
+  <img src="https://i.pixl.is/8be73eaeac3f20856fe58f18563e1fe9.gif" />
+</p>
 
 # Things I ❤️
 
